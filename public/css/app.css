@@ -244,7 +244,7 @@ div {
   color: #fff;
   letter-spacing: 0.015rem;
   line-height: 2.555rem;
-  background: #035b48;
+  background: #2980b9;
   border-radius: 1.25rem 1.25rem 0 1.25rem;
   text-align: left;
   display: block;
@@ -568,5 +568,5 @@ html {
 }
 
 .options-button:hover {
-  background-color: #b4993c;
+  background-color: #2980b9;
 }
